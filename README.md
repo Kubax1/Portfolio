@@ -19,7 +19,7 @@ This portfolio website was created to present my work as a web developer in a cl
 ## 📸 Screenshots
 
 ### Home Page
-![Home Page](./public/screenPortfolio.png)
+![Home Page](./public/screenPortfolio3.png)
 
 ---
 
