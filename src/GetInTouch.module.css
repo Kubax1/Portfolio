@@ -1,0 +1,52 @@
+.form {
+  padding: var(--mantine-spacing-xl);
+  @media (max-width: $mantine-breakpoint-sm) {
+    padding: var(--mantine-spacing-md);
+    padding-left: var(--mantine-spacing-md);
+  }
+}
+.Textarea{
+  width:60%;
+  margin: 0 auto;
+  @media (max-width: $mantine-breakpoint-sm) {
+    width:85%;
+  }
+}
+.Textarea label{
+  padding-bottom:1%;
+  font-size:16px;
+}
+
+.control{
+  margin: 0 auto;
+  background-color:#141415;
+  font-size:16px;
+}
+.control:hover{
+  background-color: #0e0e0f;
+}
+.formButtons{
+  width:60%;
+  margin:0 auto;
+  @media (max-width: $mantine-breakpoint-sm) {
+    width:85%;
+  }
+}
+.formButtons label{
+  padding-bottom:1%;
+  font-size:16px;
+}
+.ContactBlock{
+  background-color: #232325;
+  border-radius:10px;
+  width:60%;
+  margin:0 auto;
+  margin-bottom:10px;
+  @media (max-width: $mantine-breakpoint-sm) {
+    width:100%;
+  }
+}
+.title{
+  font-size:25px;
+  padding-bottom:2%;
+}
